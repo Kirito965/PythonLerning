@@ -1,0 +1,6 @@
+data
+venv
+*/output/image/*
+*/output/models/*
+.idea
+__pycache__
